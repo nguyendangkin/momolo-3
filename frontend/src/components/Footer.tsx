@@ -18,6 +18,14 @@ export default function Footer() {
                             kinnguyendang@gmail.com
                         </a>{" "}
                     </p>
+                        <p>
+                        <a
+                            href="https://momolo.io.vn/donate/"
+                            className="text-gray-400 hover:text-gray-600 transition-colors duration-200 underline"
+                        >
+                            kinnguyendang@gmail.com
+                        </a>{" "}
+                    </p>
                 </div>
             </div>
         </footer>
