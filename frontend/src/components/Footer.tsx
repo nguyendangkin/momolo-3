@@ -23,7 +23,7 @@ export default function Footer() {
                             href="https://momolo.io.vn/donate/"
                             className="text-gray-400 hover:text-gray-600 transition-colors duration-200 underline"
                         >
-                            kinnguyendang@gmail.com
+                            Ủng Hộ (Donate)
                         </a>{" "}
                     </p>
                 </div>
